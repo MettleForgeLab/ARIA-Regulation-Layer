@@ -1,4 +1,3 @@
-# **ARIA-Regulation-Layer**
 
 ---
 
