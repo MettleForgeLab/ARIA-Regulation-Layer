@@ -1,0 +1,2 @@
+target_zeta,tolerance,episodes,episode_T_s,dt_s,first_episode_reaching_tol,first_episode_staying_within_tol,final_zeta_eff,max_zeta_eff,min_zeta_eff,final_c,dc_max_per_episode,seed
+0.7,0.03,30,8.0,0.002,8,20,0.7237049552003549,0.7340124448926508,0.21366197723675812,9.094344682495862,0.8,3
